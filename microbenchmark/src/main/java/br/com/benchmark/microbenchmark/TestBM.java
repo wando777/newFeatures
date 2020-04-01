@@ -11,7 +11,7 @@ public class TestBM {
     @Measurement(iterations = 1)
     public void init() {
 
-        fib(43);
+        fib(40);
         //fibbonaci(300);
     }
     

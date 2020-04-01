@@ -6,7 +6,7 @@ public class Simple {
 
 	public static void main(String[] args) {
 
-		int n = 44;
+		int n = 46;
 
 		System.out.println("Fibonacci iteration:");
 

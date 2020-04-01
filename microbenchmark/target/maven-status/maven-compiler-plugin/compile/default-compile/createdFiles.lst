@@ -1,0 +1,10 @@
+META-INF/CompilerHints
+br/com/benchmark/microbenchmark/generated/TestBM_jmhType_B3.class
+META-INF/BenchmarkList
+br/com/benchmark/microbenchmark/BenchmarkRunner.class
+br/com/benchmark/microbenchmark/generated/TestBM_jmhType_B2.class
+br/com/benchmark/microbenchmark/TestBM.class
+br/com/benchmark/microbenchmark/generated/TestBM_jmhType.class
+br/com/benchmark/microbenchmark/generated/TestBM_init_jmhTest.class
+br/com/benchmark/microbenchmark/generated/TestBM_jmhType_B1.class
+br/com/benchmark/microbenchmark/App.class
